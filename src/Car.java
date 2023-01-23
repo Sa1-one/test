@@ -3,5 +3,6 @@ public class Car {
         int carSpeed = 0;
         System.out.println(carSpeed);
         System.out.println(carSpeed);
+        System.out.println(carSpeed);
     }
 }
